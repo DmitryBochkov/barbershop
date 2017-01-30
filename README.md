@@ -1,6 +1,6 @@
 
 <p>
-  A training web-site of a barbershop with:
+  A web-site of a barbershop with:
 </p>
 <ul>
   <li><a href="https://dmitrybochkov.github.io/barbershop/index.html" target="_blank">a home-page;</a></li>
